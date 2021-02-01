@@ -10,6 +10,67 @@ This app features two different consumer versions, one version used by buyers, a
 
   <h3>Buyers</h3>
   
-  A home screen fit for quick decision making:
+  <h4>A home screen fit for quick decision making:</h4>
   
+  ![Image of Home screen for Buyers](images/Buyer_HomeScreen.png?raw=true "Title")
+  ![Image of Home screen for Buyers](images/Buyer_Home_Producer.png?raw=true "Title")
     
+Your homepage is a compilation of producers and products you follow. This is done to encourage business between familiar parties. You are fed real-time information including producer distance, producer order method(delivery or pickup) and also the total quantity available. This information is used to shorten your decision making process as no extra contact is needed.
+
+<h4>Real Time Product Statistics</h4>
+  
+  ![Image of product screen](images/Product_Screen.png?raw=true "Title")
+  
+  Real time statistics on the total aggregated quantity of products as well as the lowest price available are displayed as you browse the list of products.
+  
+  <h4>Full Cart Management</h4>
+  
+  ![Image of Cart Management](images/Cart_Management.png?raw=true "Title")
+  
+  Ceres Agriculture offers full cart management. Items can be editted or removed right into your cart.
+  Producer quantity is tracked to ensure that there is always sufficient quantity available for whats saved into your cart.
+  In the event of a sale before your order is placed where the producer quantity drops below your required quantity, the app notifies you, and flags your order to be either edited or removed before your order may be placed.
+  
+  <h3>Producers</h3>
+  
+  <h4>Inventory Management</h4>
+  
+  ![Image of Inventory Management](images/Inventory_Home.png?raw=true "Title")
+  ![Adding a new item to inventory](images/New_Inventory.png?raw=true "Title")
+  
+  Ceres Agriculture offers full inventory management. Producers only need to add their inventory once. Their quantity is adjsted as orders are fulfilled, or even canceled. This nullifies the need to recount inventory as products are distributed.
+  
+  <h4>Store Settings</h4>
+  
+  ![Image of Producer Store Settings](images/Store_Settings.png?raw=true "Title")
+  
+  You are able to customize your preferences for operating your personal store. Here you are able to set your store as open and closed. When your store is closed, you are able to edit inventory and complete pending orders, however your products will not appear to buyers unless they explicity visit your profile. Either way new orders cannot be placed when you are closed.
+  
+  In your store settings you are able to toggle your delivery on and off. You are also able to customize delivery options such as your total distance for delivery and delivery fees. You are also able to change your current location which is used for various queries with the user.
+  
+  <h3>App-Wide Features</h3>
+  
+  <h4>Order Management</h4>
+  
+  ![Image of Order Management](images/Producer_Order_Management.png?raw=true "Title")
+  
+  Full order management is offered to both buyers and producers. Producers are able to update the status of orders, buyers are able to track order status. An invoice is auto-generated and sent to both parties for administrative reasons. Both parties have the abillity to cancel orders before order completion, however restrictions are made for orders which are already prepared.
+  
+  <h4>Location Features</h4>
+  
+  ![Image of Saved Location](images/Stored_Locations.png?raw=true "Title")
+  
+  You can add and store frequent locations and switch to them instantly by selecting them in your settings.
+  
+  ![Image of New Location](images/New_Location.png?raw=true "Title")
+  ![Image of New Location 2](images/New_Location2.png?raw=true "Title")
+  
+  Google Places Search query is used to easily search for locations information by the addressed specified. You are displayed with a map-pin of your selected location for verification. You are able to title the location for your own convenience, as well as provide extra directions for buyers to follow in the event a pickup is to be made.
+  
+  <h5>Find your Peer with ease</h5>
+  
+  ![Image of peer location](images/Producer_Location_Details.png?raw=true "Title")
+  
+  When completing deliveries or pickups, you are able to view your peer's location. You are presented with directions as indicated by your peer and a map-pin for reference. If street by street direction is needed, you are able to open your corresponding maps app with the geolocations specified and from there request directions relative to your current location.
+  
+  
