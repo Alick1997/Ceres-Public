@@ -1,10 +1,10 @@
 # Ceres Agriculture
 Description: Ceres Agriculture is a cross platform mobile application developed with React-native. Ceres Agriculture aims to connect the agricultural and food and beverage industries in Dominica. Ceres Agriculture accomplishes this by automating mundane and repetitive tasks when a sale is conducted between a business and a farmer, and also by making available useful data, and displaying this data in a strategic manner to guide parties in their decision making process at all times before a sale.
 
-The longterm goal of Ceres Agriculture is to improve the relationship between farmers and businesses involved in the food and beverage industry. This goal can be quantitatively tracked currently by the amount of imported goods such as fruit by hospitality businesses such as hotels and resorts, and also by the occurance of shortages or overproduction in stores.
-With enough data, Ceres Agriculture aims to become a statistical hub for parties invested in the Agricultural industry. Statistics on the total supply of certain products throughout the year and on the average price of products throughout the year are incredibly valuable to stakeholders of the Argicultural industry. The database architecture of this project was built specifically to take advantage of this opportunity.
+The longterm goal of Ceres Agriculture is to improve the relationship between farmers and businesses involved in the food and beverage industry. This goal can be quantitatively tracked currently by the amount of imported fresh goods like as fruit by hospitality industry, and also by the frequency of shortages or overproduction on certain goods throughout the year.
+With enough data, Ceres Agriculture aims to become a statistical hub for parties invested in the Agricultural industry. Statistics and trends on the total supply of certain products throughout the year and on the average price of products throughout the year are incredibly valuable to stakeholders of the Argicultural industry. The database architecture of this project was built specifically to take advantage of this opportunity.
 
-<h2>Status</h2>: The project is currently in the last alpha stage of testing and development.
+<h2>Status</h2>: The project is currently in the last alpha stage of testing and development and will begin closed beta testing soon.
 
 
 <h2>Features</h2>
