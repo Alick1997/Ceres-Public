@@ -30,8 +30,8 @@ Your homepage is a compilation of producers and products you follow. This is don
   ![Image of Cart Management](images/Cart.png?raw=true "Title")
   
   Ceres Agriculture offers full cart management. Items can be editted or removed from the cart screen.
-  Producer quantity is tracked to ensure that there is always sufficient quantity available for whats saved into your cart.
-  In the event of a sale before your order is placed where, the producer quantity drops below your required quantity, the app notifies you, and flags the item in your cart to be edited or removed before your order may be placed.
+  Producer quantity is tracked to ensure that there is always sufficient quantity available for items saved in your cart.
+  In the event of a sale before your order is placed where the producer quantity drops below your required quantity, the app notifies you, and flags the item in your cart to be edited or removed before your order may be placed. This ensures that buyers are aware if producers have the capacity to fulfill the order before-hand.
   
   <h3>Producers</h3>
   
@@ -40,7 +40,7 @@ Your homepage is a compilation of producers and products you follow. This is don
   ![Image of Inventory Management](images/Inventory_Home.png?raw=true "Title")
   ![Adding a new item to inventory](images/New_Inventory.png?raw=true "Title")
   
-  Ceres Agriculture offers full inventory management. Producers only need to add items their inventory once. Their quantity is adjsted as orders are fulfilled, or even canceled. This nullifies the need to recount inventory as products are distributed.
+  Ceres Agriculture offers full inventory management. Producers only need to add items their inventory once. Their quantity is adjsted as orders are fulfilled or canceled. This nullifies the need to recount inventory as products are distributed.
   
   <h4>Store Settings</h4>
   
@@ -48,7 +48,7 @@ Your homepage is a compilation of producers and products you follow. This is don
   
   You are able to customize your preferences for operating your personal store. Here you are able to set your store status as open and closed. When your store is closed no new orders may be placed, however you are still able to customize your inventory and other settings as well as complete pending orders.
   
-  In your store settings you are able to toggle your delivery on and off. You are also able to customize delivery options such as your total distance for delivery and delivery fees. You are also able to change your current location which is used for various queries with the user.
+  In your store settings you are able to toggle delivery on or off. You are also able to customize delivery options such as your total distance for delivery and delivery fees. You are also able to change your current location which is used for various queries with the user.
   
   <h3>App-Wide Features</h3>
   
@@ -56,24 +56,24 @@ Your homepage is a compilation of producers and products you follow. This is don
   
   ![Image of Order Management](images/Producer_Order_Management.png?raw=true "Title")
   
-  Full order management is offered to both buyers and producers. Producers are able to update the status of orders, buyers are able to track order status. An invoice is auto-generated and sent to both parties for administrative reasons. Both parties have the abillity to cancel orders before order completion, however restrictions are made for orders which are already prepared.
+  Full order management is offered to both buyers and producers. Producers are able to update the status of orders, buyers are able to track order status. An invoice is auto-generated and sent to both parties for administrative reasons. Both parties have the abillity to cancel orders before order completion, however there are restrictions on orders which are too far in the completion process..
   
   <h4>Location Features</h4>
   
   ![Image of Saved Location](images/Stored_Locations.png?raw=true "Title")
   
-  You can add and store frequent locations and switch to them instantly by making a selection in your settings.
+  You can add and store frequent locations and switch to them instantly by making a selection in your settings. This facillitates parties who frequent multiple locations, and keeps our location query and distance calculation consistent.
   
   ![Image of New Location](images/New_Location.png?raw=true "Title")
   ![Image of New Location 2](images/New_Location2.png?raw=true "Title")
   
-  Google Places Search query is used to easily search for locations information by the address specified. You are displayed with a map-pin of your selected location for verification. You are able to title the location for your own convenience, as well as provide extra directions for buyers to follow in the event a pickup is to be made.
+  Google Places Search query is used to easily search for location information by the address specified. You are displayed with a map-pin of your selected location for verification. You are able to title the location for your own convenience, as well as provide extra directions for peers to follow.
   
   <h5>Find your Peer with ease</h5>
   
   ![Image of peer location](images/Producer_Location_Details.png?raw=true "Title")
   
-  When completing deliveries or pickups, you are able to view your peer's location. You are presented with directions as indicated by your peer and a map-pin for reference. If street by street direction is needed, you are able to open your corresponding maps app with the geolocations specified and from there request directions relative to your current location.
+  When completing deliveries or pickups, you are able to view your peer's location. You are presented with directions as indicated by your peer and a map-pin for reference. If street by street direction is required, you are able to open your corresponding maps app with the geolocations specified, and from there request turn-by-turn directions relative to your current location.
   
  
   
